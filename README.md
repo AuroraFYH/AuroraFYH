@@ -24,6 +24,13 @@
   <img src="image-1.png" width="200" alt="me working">
 </p>
 
+### 💤我摆烂时
+
+<p align="center">
+  <img src="image-5.png" width="200" alt="me working">
+</p>
+
+
 ### 😭 成为大手子到底是什么感觉
 
 <p align="center">
