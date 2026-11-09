@@ -19,7 +19,9 @@
 | 项目 | 简介 |
 | :--- | :--- |
 | [wit_radar](https://github.com/AuroraFYH/wit_radar) | 26 赛季雷达反制功能 |
-| [Grow_base](https://github.com/AuroraFYH/Grow_base) | 面向团队的协作知识库系统 |
+| [Grow_base](https://github.com/AuroraFYH/Grow_base) | 自生长知识库系统 |
+| [Fei](https://github.com/AuroraFYH/Fei) | 个人知识库 |
+| [wit_vision](https://github.com/AuroraFYH/wit_vision) | 26赛季完成形态视觉代码 |
 
 <p align="center">
   <a href="https://github.com/AuroraFYH?tab=repositories">
